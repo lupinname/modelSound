@@ -1,0 +1,16 @@
+additional/
+Article/
+export/
+features/
+later/
+New folder/
+References/
+__pycache__/
+.ipynb_checkpoints/
+
+*.bat
+*.zip
+*.sh
+*.ipynb
+train - Copy.py
+train_images.txt
